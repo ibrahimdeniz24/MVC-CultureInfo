@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebApplicationCulture/1.0.0": {
+        "runtime": {
+          "WebApplicationCulture.dll": {}
+        },
+        "resources": {
+          "en/WebApplicationCulture.resources.dll": {
+            "locale": "en"
+          },
+          "tr/WebApplicationCulture.resources.dll": {
+            "locale": "tr"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplicationCulture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
